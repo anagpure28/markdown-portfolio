@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*This is Github learning Platform.*
+_This will also be italic_
+
+**Introduction to Github.**
+__This will also be bold__
+
+_This is**my new**portfolio_
